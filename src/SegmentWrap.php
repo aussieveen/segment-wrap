@@ -25,6 +25,7 @@ class SegmentWrap
                     echo "Segment error: $msg\n";
                     echo "Segment error code: $code\n";
                 },
+                'host' => 'events.eu1.segmentapis.com'
             ]
         );
     }
